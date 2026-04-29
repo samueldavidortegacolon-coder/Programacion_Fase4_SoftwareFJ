@@ -1,0 +1,3 @@
+2026-04-27 20:45:12 - ERROR - DatoNoValido: Las horas de la sala deben ser más de 0
+2026-04-27 20:45:45 - ERROR - DatoNoValido: Los días de alquiler no pueden ser 0 o menos
+2026-04-27 20:46:10 - ERROR - DatoNoValido: Error en los datos de entrada
